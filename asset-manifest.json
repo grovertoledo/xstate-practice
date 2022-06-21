@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/xstate-practice/static/css/main.ded1a47f.css",
+    "main.js": "/xstate-practice/static/js/main.676f6008.js",
+    "static/js/787.2bdcaa74.chunk.js": "/xstate-practice/static/js/787.2bdcaa74.chunk.js",
+    "static/media/background-travel-2.jpg": "/xstate-practice/static/media/background-travel-2.1b3bc05ab3ab53a29ab2.jpg",
+    "index.html": "/xstate-practice/index.html",
+    "main.ded1a47f.css.map": "/xstate-practice/static/css/main.ded1a47f.css.map",
+    "main.676f6008.js.map": "/xstate-practice/static/js/main.676f6008.js.map",
+    "787.2bdcaa74.chunk.js.map": "/xstate-practice/static/js/787.2bdcaa74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ded1a47f.css",
+    "static/js/main.676f6008.js"
+  ]
+}
